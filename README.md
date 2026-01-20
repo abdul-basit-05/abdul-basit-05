@@ -33,8 +33,8 @@ I am a results-driven technology leader from Pakistan with a strong background i
 <h3 align="center">Building scalable, high-performance web applications</h3>
 <p align="center">I develop end-to-end web applications using React, Node.js, Express, and MongoDB. My work focuses on performance, scalability, and real-world usability. I enjoy building SaaS products, APIs, dashboards, and e-commerce systems while following best practices and modern development standards.</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-basit-05&show_icons=true&locale=en" alt="abdul-basit-05" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-basit-05&show_icons=true&locale=en" alt="abdul-basit-05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul basit&" alt="abdul-basit-05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul basit&" alt="abdul-basit-05" /></p> -->
 
 
