@@ -32,8 +32,8 @@ I am a results-driven technology leader from Pakistan with a strong background i
 <h1 align="center">JavaScript - TypeScript</h1>
 <h3 align="center">Building scalable, high-performance web applications</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=as03489822&show_icons=true&locale=en" alt="as03489822" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-basit-05&show_icons=true&locale=en" alt="abdul-basit-05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=as03489822&" alt="as03489822" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-basit-05&" alt="abdul-basit-05" /></p>
 
 
